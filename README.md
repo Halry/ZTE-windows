@@ -4,8 +4,8 @@
 	&nbsp;&nbsp; //////////////////////<br />
 	&nbsp;&nbsp; Copyleft ? 2009 Luzj<br />
 	&nbsp; Author:Luzj&nbsp; QQ:86829232<br />
-	&nbsp; [url=http://blog.csdn.net/luzjqq]http://blog.csdn.net/luzjqq[/url]<br />
-	&nbsp; Email: [url=mailto:luzjcn@gmail.com]luzjcn@gmail.com[/url]<br />
+	&nbsp; http://blog.csdn.net/luzjqq<br />
+	&nbsp; Email: luzjcn@gmail.com<br />
 	&nbsp;///////////////////////////////////<br />
 	关于Luzj's Zte认证端的声明：<br />
 	1、本软件所有涉及的中兴认证的功能的实现均是通过黑盒分析得来，并未通过任何不正当方法获得。<br />
@@ -21,8 +21,8 @@
 	&nbsp;&nbsp; //////////////////////<br />
 	&nbsp;&nbsp; Copyleft ? 2012 YZX<br />
 	&nbsp; Author:YZX&nbsp; QQ:36435473<br />
-	&nbsp; [url=http://tpu01yzx.blog.163.com/]http://tpu01yzx.blog.163.com/[/url]<br />
-	&nbsp; Email: [url=mailto:tpu01yzx@gmail.com]tpu01yzx@gmail.com[/url]<br />
+	&nbsp; http://tpu01yzx.blog.163.com/<br />
+	&nbsp; Email: tpu01yzx@gmail.com<br />
 	&nbsp;///////////////////////////////////<br />
 	关于“广科校园网认证客户端”的声明：<br />
 	1、即上述“关于Luzj's Zte认证端的声明”全部内容<br />
@@ -35,7 +35,6 @@
 	///////////////////////////////////<br />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copyleft ? 2015 NULLYING<br />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Author:白月秋见心<br />
-	&nbsp;&nbsp;&nbsp;&nbsp; [url=http://www.lastorder.cn]http://www.lastorder.cn[/url]<br />
 	///////////////////////////////////<br />
 	关于“广科校园网认证客户端”的声明：<br />
 	1、即上述“关于Luzj's Zte认证端的声明”和”关于“广科校园网认证客户端”的声明“的全部内容<br />
